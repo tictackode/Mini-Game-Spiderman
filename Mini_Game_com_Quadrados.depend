@@ -1,0 +1,312 @@
+# depslib dependency file v1.0
+1458166434 source:c:\users\regson\documents\codigos fonte e projetos\codeblocks projects\template_c_all4\main.cpp
+	<allegro.h>
+	<time.h>
+	"Glow.h"
+	"functions.h"
+
+1458148312 c:\users\regson\documents\codigos fonte e projetos\codeblocks projects\template_c_all4\glow.h
+	<allegro.h>
+
+1458172020 c:\users\regson\documents\codigos fonte e projetos\codeblocks projects\template_c_all4\functions.h
+
+1458161462 source:d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\main.cpp
+	<allegro.h>
+	<time.h>
+	"Glow.h"
+	"functions.h"
+
+1114377974 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1185137148 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1182716002 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1185089920 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\alplatf.h
+
+1107306732 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1182005548 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1182005548 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1182809686 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1151112810 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1151112810 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1182005548 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1107306732 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1182005548 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\alosxcfg.h
+
+1182005548 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1182005548 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1182005548 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1142079544 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1110286526 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\unicode.h
+	"base.h"
+
+1136084988 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\config.h
+	"base.h"
+
+1090971202 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1110286526 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\debug.h
+	"base.h"
+
+1182005548 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\mouse.h
+	"base.h"
+
+1110286526 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\timer.h
+	"base.h"
+
+1102150590 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\keyboard.h
+	"base.h"
+
+1073684996 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\joystick.h
+	"base.h"
+
+1005106008 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\palette.h
+
+1138619856 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1097999134 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1107306732 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\fixed.h
+	"base.h"
+
+1110286526 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1144562848 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1110286526 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\al386gcc.h
+
+1110286526 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\al386vc.h
+
+1110286526 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\platform\al386wat.h
+
+1110286526 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1110286526 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\inline\color.inl
+
+1110286526 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1125280270 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1036115784 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1036115784 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1144562848 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\compiled.h
+	"base.h"
+
+1105917290 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\text.h
+	"base.h"
+
+1165900476 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\font.h
+	"base.h"
+
+1036115784 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1104442066 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\gui.h
+	"base.h"
+
+1142744734 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1142744734 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\digi.h
+	"base.h"
+
+1036115784 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\stream.h
+	"base.h"
+
+1142744734 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\midi.h
+	"base.h"
+
+1149056564 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\file.h
+	"base.h"
+
+1110326416 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\lzss.h
+	"base.h"
+
+1136084988 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\datafile.h
+	"base.h"
+
+1036115784 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1130574898 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1036115784 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1007256772 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\inline\matrix.inl
+
+1036115784 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\quat.h
+	"base.h"
+
+1110286526 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1110286526 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\inline\3dmaths.inl
+
+1148183648 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\alcompat.h
+
+1036115784 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1110286526 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\allegro-mingw-4.2.2\include\allegro\inline\fix.inl
+
+1458161462 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\glow.h
+	<allegro.h>
+
+1458161462 d:\codigos fonte e projetos\c++\2016-allegro4-projects\mini_game_spiderman-master\functions.h
+
